@@ -2,7 +2,7 @@
 Unity工程舞台文件批量转换PMX文件
 
 
-此工具为半成品，目前版本V5.3.9
+此工具为半成品
 需使用blender 4.4.3、MMD tools插件
 blender其他版本没测试过
 
