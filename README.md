@@ -19,7 +19,11 @@ MMD使用：先导入PMX，再导入VMD
 MMD使用：先导入PMX，再导入VMD
 
 
-SCSP_Unity工程舞台文件下载，可直接使用Labubu制作的SCSP下载器来下载 https://github.com/patchouliwxy/SCSP-Resource-Downloader
+SCSP_Unity工程舞台文件下载，可直接使用Labubu制作的SCSP下载器来下载
+https://github.com/patchouliwxy/SCSP-Resource-Downloader
 
 
 允许二次修改、二次配布
+
+
+感觉完成度好低，不过还是先发出来了，希望有人能做出更好的
